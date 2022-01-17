@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rich
-- 👀 I’m interested in learning a whole new world of programming.  Coming from the school of ladder logic programming with some script and VB, I have allot to learn!
+- 👀 I’m interested in learning a new way of programming.  Coming from the school of ladder logic programming with some script and VB, I have allot to learn!
 - 🌱 I’m currently learning Git and GitHub.
 - 💞️ I’m looking to collaborate on anything that I can learn.
 - 📫 How to reach me ...
